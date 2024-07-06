@@ -1,0 +1,27 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    
+  }
+  
+  .calculator {
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 10px;
+    background-color: grey;
+  }
+  
+  button {
+    margin: 5px;
+    padding: 10px;
+    width: 40px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  input {
+    width: 160px;
+    padding: 5px;
+    margin-bottom: 10px;
+  }
